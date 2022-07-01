@@ -23,6 +23,7 @@
   background-color: red;
   color: whitesmoke;
   font-weight: bold;
+  border-radius: 15px;
 }
 
 .X:hover {
