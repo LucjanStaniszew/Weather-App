@@ -1,0 +1,22 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+#sb {
+  border-radius: 10px;
+}
+
+#button {
+  margin: 0 auto;
+    border-radius: 15px;
+    color: darkgreen;
+    background-color: darkgrey;
+    border-color: darkgreen;
+}
+
+#button:hover{
+  border-radius: 15px;
+  border: solid black 0.5px;
+  background-color: green;
+  color: darkgrey;
+}

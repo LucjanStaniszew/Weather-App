@@ -1,0 +1,37 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  color: rgba(0, 0, 0, 0.568);
+  font-weight: bold;
+  background-color: rgba(245, 245, 245, 0.445);
+  background-size: cover;
+  border: none !important;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.X {
+  background-color: red;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.X:hover {
+  background-color: whitesmoke;
+  color: red;
+  font-weight: bold;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}

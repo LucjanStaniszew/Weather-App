@@ -1,0 +1,8 @@
+.ciudad {
+    margin: 0 auto;
+    width: 18rem;
+    background-color: rgba(245, 245, 245, 0.445);
+    color: rgba(0, 0, 0, 0.568);
+    font-weight: bolder;
+    justify-content: center;
+}
